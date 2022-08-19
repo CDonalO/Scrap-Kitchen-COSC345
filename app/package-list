@@ -1,6 +1,9 @@
 $dokka.format:html-v1
 $dokka.linkExtension:html
 $dokka.location:com.example.recipeapp.activities////PointingToDeclaration/app/com.example.recipeapp.activities/index.html
+$dokka.location:com.example.recipeapp.activities/AddShoppingItem///PointingToDeclaration/app/com.example.recipeapp.activities/-add-shopping-item/index.html
+$dokka.location:com.example.recipeapp.activities/AddShoppingItem/AddShoppingItem/#/PointingToDeclaration/app/com.example.recipeapp.activities/-add-shopping-item/-add-shopping-item.html
+$dokka.location:com.example.recipeapp.activities/AddShoppingItem/addItem/#android.view.View/PointingToDeclaration/app/com.example.recipeapp.activities/-add-shopping-item/add-item.html
 $dokka.location:com.example.recipeapp.activities/MainActivity.Companion///PointingToDeclaration/app/com.example.recipeapp.activities/-main-activity/-companion/index.html
 $dokka.location:com.example.recipeapp.activities/MainActivity.Companion/setContinentID/#kotlin.Int/PointingToDeclaration/app/com.example.recipeapp.activities/-main-activity/-companion/set-continent-i-d.html
 $dokka.location:com.example.recipeapp.activities/MainActivity///PointingToDeclaration/app/com.example.recipeapp.activities/-main-activity/index.html
@@ -80,6 +83,9 @@ $dokka.location:com.example.recipeapp.fragments/RegionSelect/onClick/#android.vi
 $dokka.location:com.example.recipeapp.fragments/RegionSelect/onCreateView/#android.view.LayoutInflater#android.view.ViewGroup?#android.os.Bundle?/PointingToDeclaration/app/com.example.recipeapp.fragments/-region-select/on-create-view.html
 $dokka.location:com.example.recipeapp.fragments/ShoppingList///PointingToDeclaration/app/com.example.recipeapp.fragments/-shopping-list/index.html
 $dokka.location:com.example.recipeapp.fragments/ShoppingList/ShoppingList/#/PointingToDeclaration/app/com.example.recipeapp.fragments/-shopping-list/-shopping-list.html
+$dokka.location:com.example.recipeapp.fragments/ShoppingList/onCreate/#android.os.Bundle?/PointingToDeclaration/app/com.example.recipeapp.fragments/-shopping-list/on-create.html
+$dokka.location:com.example.recipeapp.fragments/ShoppingList/onCreateOptionsMenu/#android.view.Menu#android.view.MenuInflater/PointingToDeclaration/app/com.example.recipeapp.fragments/-shopping-list/on-create-options-menu.html
+$dokka.location:com.example.recipeapp.fragments/ShoppingList/onOptionsItemSelected/#android.view.MenuItem/PointingToDeclaration/app/com.example.recipeapp.fragments/-shopping-list/on-options-item-selected.html
 $dokka.location:com.example.recipeapp////PointingToDeclaration/app/com.example.recipeapp/index.html
 $dokka.location:com.example.recipeapp/AppDB.Companion///PointingToDeclaration/app/com.example.recipeapp/-app-d-b/-companion/index.html
 $dokka.location:com.example.recipeapp/AppDB.Companion/getInstance/#android.content.Context/PointingToDeclaration/app/com.example.recipeapp/-app-d-b/-companion/get-instance.html
