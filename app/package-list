@@ -25,7 +25,6 @@ $dokka.location:com.example.recipeapp.dao/Maps/SOUTH_AMERICA/#/PointingToDeclara
 $dokka.location:com.example.recipeapp.dao/Maps/staples/#/PointingToDeclaration/app/com.example.recipeapp.dao/-maps/staples.html
 $dokka.location:com.example.recipeapp.dao/MealPlannerEntDAO///PointingToDeclaration/app/com.example.recipeapp.dao/-meal-planner-ent-d-a-o/index.html
 $dokka.location:com.example.recipeapp.dao/MealPlannerEntDAO/getMealPlanner/#/PointingToDeclaration/app/com.example.recipeapp.dao/-meal-planner-ent-d-a-o/get-meal-planner.html
-$dokka.location:com.example.recipeapp.dao/MealPlannerEntDAO/getMondayLunch/#/PointingToDeclaration/app/com.example.recipeapp.dao/-meal-planner-ent-d-a-o/get-monday-lunch.html
 $dokka.location:com.example.recipeapp.dao/RecipeEntDAO///PointingToDeclaration/app/com.example.recipeapp.dao/-recipe-ent-d-a-o/index.html
 $dokka.location:com.example.recipeapp.dao/RecipeEntDAO/getRecipeByCountry/#kotlin.Int/PointingToDeclaration/app/com.example.recipeapp.dao/-recipe-ent-d-a-o/get-recipe-by-country.html
 $dokka.location:com.example.recipeapp.dao/RecipeEntDAO/getRecipeById/#kotlin.Int/PointingToDeclaration/app/com.example.recipeapp.dao/-recipe-ent-d-a-o/get-recipe-by-id.html
@@ -68,9 +67,8 @@ $dokka.location:com.example.recipeapp.entities/ShoppingItemEnt/metric/#/Pointing
 $dokka.location:com.example.recipeapp.fragments////PointingToDeclaration/app/com.example.recipeapp.fragments/index.html
 $dokka.location:com.example.recipeapp.fragments/MealPlanner///PointingToDeclaration/app/com.example.recipeapp.fragments/-meal-planner/index.html
 $dokka.location:com.example.recipeapp.fragments/MealPlanner/MealPlanner/#/PointingToDeclaration/app/com.example.recipeapp.fragments/-meal-planner/-meal-planner.html
-$dokka.location:com.example.recipeapp.fragments/MealPlanner/onClick/#android.view.View?/PointingToDeclaration/app/com.example.recipeapp.fragments/-meal-planner/on-click.html
+$dokka.location:com.example.recipeapp.fragments/MealPlanner/onClick/#android.view.View/PointingToDeclaration/app/com.example.recipeapp.fragments/-meal-planner/on-click.html
 $dokka.location:com.example.recipeapp.fragments/MealPlanner/onCreateView/#android.view.LayoutInflater#android.view.ViewGroup?#android.os.Bundle?/PointingToDeclaration/app/com.example.recipeapp.fragments/-meal-planner/on-create-view.html
-$dokka.location:com.example.recipeapp.fragments/MealPlanner/setRecipe/#com.example.recipeapp.entities.RecipeEnt/PointingToDeclaration/app/com.example.recipeapp.fragments/-meal-planner/set-recipe.html
 $dokka.location:com.example.recipeapp.fragments/MealPlanner/toString/#/PointingToDeclaration/app/com.example.recipeapp.fragments/-meal-planner/to-string.html
 $dokka.location:com.example.recipeapp.fragments/Recipe///PointingToDeclaration/app/com.example.recipeapp.fragments/-recipe/index.html
 $dokka.location:com.example.recipeapp.fragments/Recipe/Recipe/#kotlin.Int/PointingToDeclaration/app/com.example.recipeapp.fragments/-recipe/-recipe.html
@@ -91,6 +89,7 @@ $dokka.location:com.example.recipeapp/AppDB.Companion///PointingToDeclaration/a
 $dokka.location:com.example.recipeapp/AppDB.Companion/getInstance/#android.content.Context/PointingToDeclaration/app/com.example.recipeapp/-app-d-b/-companion/get-instance.html
 $dokka.location:com.example.recipeapp/AppDB///PointingToDeclaration/app/com.example.recipeapp/-app-d-b/index.html
 $dokka.location:com.example.recipeapp/AppDB/AppDB/#/PointingToDeclaration/app/com.example.recipeapp/-app-d-b/-app-d-b.html
+$dokka.location:com.example.recipeapp/AppDB/mealPlannerDAO/#/PointingToDeclaration/app/com.example.recipeapp/-app-d-b/meal-planner-d-a-o.html
 $dokka.location:com.example.recipeapp/AppDB/recipeDAO/#/PointingToDeclaration/app/com.example.recipeapp/-app-d-b/recipe-d-a-o.html
 $dokka.location:com.example.recipeapp/AppDB/shoppingItemDAO/#/PointingToDeclaration/app/com.example.recipeapp/-app-d-b/shopping-item-d-a-o.html
 $dokka.location:com.example.recipeapp/ListAdapter.MyViewHolder///PointingToDeclaration/app/com.example.recipeapp/-list-adapter/-my-view-holder/index.html
