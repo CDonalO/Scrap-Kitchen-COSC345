@@ -100,7 +100,7 @@ $dokka.location:com.example.recipeapp/ListAdapter.MyViewHolder/onClick/#android.
 $dokka.location:com.example.recipeapp/ListAdapter.OnItemClickListener///PointingToDeclaration/app/com.example.recipeapp/-list-adapter/-on-item-click-listener/index.html
 $dokka.location:com.example.recipeapp/ListAdapter.OnItemClickListener/onItemClick/#com.example.recipeapp.entities.RecipeEnt/PointingToDeclaration/app/com.example.recipeapp/-list-adapter/-on-item-click-listener/on-item-click.html
 $dokka.location:com.example.recipeapp/ListAdapter///PointingToDeclaration/app/com.example.recipeapp/-list-adapter/index.html
-$dokka.location:com.example.recipeapp/ListAdapter/ListAdapter/#com.example.recipeapp.ListAdapter.OnItemClickListener/PointingToDeclaration/app/com.example.recipeapp/-list-adapter/-list-adapter.html
+$dokka.location:com.example.recipeapp/ListAdapter/ListAdapter/#com.example.recipeapp.fragments.Recipe/PointingToDeclaration/app/com.example.recipeapp/-list-adapter/-list-adapter.html
 $dokka.location:com.example.recipeapp/ListAdapter/getItemCount/#/PointingToDeclaration/app/com.example.recipeapp/-list-adapter/get-item-count.html
 $dokka.location:com.example.recipeapp/ListAdapter/onBindViewHolder/#com.example.recipeapp.ListAdapter.MyViewHolder#kotlin.Int/PointingToDeclaration/app/com.example.recipeapp/-list-adapter/on-bind-view-holder.html
 $dokka.location:com.example.recipeapp/ListAdapter/onCreateViewHolder/#android.view.ViewGroup#kotlin.Int/PointingToDeclaration/app/com.example.recipeapp/-list-adapter/on-create-view-holder.html
