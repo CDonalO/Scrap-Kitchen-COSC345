@@ -4,6 +4,8 @@ $dokka.location:com.example.recipeapp.activities////PointingToDeclaration/app/c
 $dokka.location:com.example.recipeapp.activities/AddShoppingItem///PointingToDeclaration/app/com.example.recipeapp.activities/-add-shopping-item/index.html
 $dokka.location:com.example.recipeapp.activities/AddShoppingItem/AddShoppingItem/#/PointingToDeclaration/app/com.example.recipeapp.activities/-add-shopping-item/-add-shopping-item.html
 $dokka.location:com.example.recipeapp.activities/AddShoppingItem/addItem/#android.view.View/PointingToDeclaration/app/com.example.recipeapp.activities/-add-shopping-item/add-item.html
+$dokka.location:com.example.recipeapp.activities/Loading///PointingToDeclaration/app/com.example.recipeapp.activities/-loading/index.html
+$dokka.location:com.example.recipeapp.activities/Loading/Loading/#/PointingToDeclaration/app/com.example.recipeapp.activities/-loading/-loading.html
 $dokka.location:com.example.recipeapp.activities/MainActivity.Companion///PointingToDeclaration/app/com.example.recipeapp.activities/-main-activity/-companion/index.html
 $dokka.location:com.example.recipeapp.activities/MainActivity.Companion/setContinentID/#kotlin.Int/PointingToDeclaration/app/com.example.recipeapp.activities/-main-activity/-companion/set-continent-i-d.html
 $dokka.location:com.example.recipeapp.activities/MainActivity///PointingToDeclaration/app/com.example.recipeapp.activities/-main-activity/index.html
