@@ -81,6 +81,11 @@ $dokka.location:com.example.recipeapp.fragments/RegionSelect///PointingToDeclara
 $dokka.location:com.example.recipeapp.fragments/RegionSelect/RegionSelect/#androidx.fragment.app.FragmentManager/PointingToDeclaration/app/com.example.recipeapp.fragments/-region-select/-region-select.html
 $dokka.location:com.example.recipeapp.fragments/RegionSelect/onClick/#android.view.View?/PointingToDeclaration/app/com.example.recipeapp.fragments/-region-select/on-click.html
 $dokka.location:com.example.recipeapp.fragments/RegionSelect/onCreateView/#android.view.LayoutInflater#android.view.ViewGroup?#android.os.Bundle?/PointingToDeclaration/app/com.example.recipeapp.fragments/-region-select/on-create-view.html
+$dokka.location:com.example.recipeapp.fragments/RegionSelectNew///PointingToDeclaration/app/com.example.recipeapp.fragments/-region-select-new/index.html
+$dokka.location:com.example.recipeapp.fragments/RegionSelectNew/RegionSelectNew/#androidx.fragment.app.FragmentManager/PointingToDeclaration/app/com.example.recipeapp.fragments/-region-select-new/-region-select-new.html
+$dokka.location:com.example.recipeapp.fragments/RegionSelectNew/onClick/#android.view.View?/PointingToDeclaration/app/com.example.recipeapp.fragments/-region-select-new/on-click.html
+$dokka.location:com.example.recipeapp.fragments/RegionSelectNew/onCreateView/#android.view.LayoutInflater#android.view.ViewGroup?#android.os.Bundle?/PointingToDeclaration/app/com.example.recipeapp.fragments/-region-select-new/on-create-view.html
+$dokka.location:com.example.recipeapp.fragments/RegionSelectNew/toString/#/PointingToDeclaration/app/com.example.recipeapp.fragments/-region-select-new/to-string.html
 $dokka.location:com.example.recipeapp.fragments/ShoppingList///PointingToDeclaration/app/com.example.recipeapp.fragments/-shopping-list/index.html
 $dokka.location:com.example.recipeapp.fragments/ShoppingList/ShoppingList/#/PointingToDeclaration/app/com.example.recipeapp.fragments/-shopping-list/-shopping-list.html
 $dokka.location:com.example.recipeapp.fragments/ShoppingList/onCreate/#android.os.Bundle?/PointingToDeclaration/app/com.example.recipeapp.fragments/-shopping-list/on-create.html
