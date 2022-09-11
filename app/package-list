@@ -16,6 +16,9 @@ $dokka.location:com.example.recipeapp.activities/RecipeDetailActivity///Pointing
 $dokka.location:com.example.recipeapp.activities/RecipeDetailActivity/RecipeDetailActivity/#/PointingToDeclaration/app/com.example.recipeapp.activities/-recipe-detail-activity/-recipe-detail-activity.html
 $dokka.location:com.example.recipeapp.activities/RecipeDetailActivity/onCreateOptionsMenu/#android.view.Menu?/PointingToDeclaration/app/com.example.recipeapp.activities/-recipe-detail-activity/on-create-options-menu.html
 $dokka.location:com.example.recipeapp.dao////PointingToDeclaration/app/com.example.recipeapp.dao/index.html
+$dokka.location:com.example.recipeapp.dao/Emojis///PointingToDeclaration/app/com.example.recipeapp.dao/-emojis/index.html
+$dokka.location:com.example.recipeapp.dao/Emojis/Emojis/#kotlin.collections.Map[kotlin.String,kotlin.String]/PointingToDeclaration/app/com.example.recipeapp.dao/-emojis/-emojis.html
+$dokka.location:com.example.recipeapp.dao/Emojis/countries/#/PointingToDeclaration/app/com.example.recipeapp.dao/-emojis/countries.html
 $dokka.location:com.example.recipeapp.dao/Maps///PointingToDeclaration/app/com.example.recipeapp.dao/-maps/index.html
 $dokka.location:com.example.recipeapp.dao/Maps/AFRICA/#/PointingToDeclaration/app/com.example.recipeapp.dao/-maps/-a-f-r-i-c-a.html
 $dokka.location:com.example.recipeapp.dao/Maps/ASIA/#/PointingToDeclaration/app/com.example.recipeapp.dao/-maps/-a-s-i-a.html
