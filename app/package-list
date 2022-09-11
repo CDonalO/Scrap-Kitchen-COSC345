@@ -96,6 +96,7 @@ $dokka.location:com.example.recipeapp.fragments/ShoppingList/onCreateOptionsMenu
 $dokka.location:com.example.recipeapp.fragments/ShoppingList/onOptionsItemSelected/#android.view.MenuItem/PointingToDeclaration/app/com.example.recipeapp.fragments/-shopping-list/on-options-item-selected.html
 $dokka.location:com.example.recipeapp.fragments/ShoppingList/onResume/#/PointingToDeclaration/app/com.example.recipeapp.fragments/-shopping-list/on-resume.html
 $dokka.location:com.example.recipeapp.fragments/ShoppingList/onViewCreated/#android.view.View#android.os.Bundle?/PointingToDeclaration/app/com.example.recipeapp.fragments/-shopping-list/on-view-created.html
+$dokka.location:com.example.recipeapp.fragments/ShoppingList/toString/#/PointingToDeclaration/app/com.example.recipeapp.fragments/-shopping-list/to-string.html
 $dokka.location:com.example.recipeapp////PointingToDeclaration/app/com.example.recipeapp/index.html
 $dokka.location:com.example.recipeapp/AppDB.Companion///PointingToDeclaration/app/com.example.recipeapp/-app-d-b/-companion/index.html
 $dokka.location:com.example.recipeapp/AppDB.Companion/getInstance/#android.content.Context/PointingToDeclaration/app/com.example.recipeapp/-app-d-b/-companion/get-instance.html
