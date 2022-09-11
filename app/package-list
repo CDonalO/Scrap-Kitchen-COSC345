@@ -51,13 +51,15 @@ $dokka.location:com.example.recipeapp.entities/RecipeEnt.CREATOR/createFromParce
 $dokka.location:com.example.recipeapp.entities/RecipeEnt.CREATOR/newArray/#kotlin.Int/PointingToDeclaration/app/com.example.recipeapp.entities/-recipe-ent/-c-r-e-a-t-o-r/new-array.html
 $dokka.location:com.example.recipeapp.entities/RecipeEnt///PointingToDeclaration/app/com.example.recipeapp.entities/-recipe-ent/index.html
 $dokka.location:com.example.recipeapp.entities/RecipeEnt/RecipeEnt/#android.os.Parcel/PointingToDeclaration/app/com.example.recipeapp.entities/-recipe-ent/-recipe-ent.html
-$dokka.location:com.example.recipeapp.entities/RecipeEnt/RecipeEnt/#kotlin.Int#kotlin.String#kotlin.String#kotlin.Int#kotlin.String#kotlin.String#kotlin.Int/PointingToDeclaration/app/com.example.recipeapp.entities/-recipe-ent/-recipe-ent.html
+$dokka.location:com.example.recipeapp.entities/RecipeEnt/RecipeEnt/#kotlin.Int#kotlin.String#kotlin.String#kotlin.Int#kotlin.String#kotlin.String#kotlin.Int#kotlin.String#kotlin.String/PointingToDeclaration/app/com.example.recipeapp.entities/-recipe-ent/-recipe-ent.html
+$dokka.location:com.example.recipeapp.entities/RecipeEnt/country/#/PointingToDeclaration/app/com.example.recipeapp.entities/-recipe-ent/country.html
 $dokka.location:com.example.recipeapp.entities/RecipeEnt/describeContents/#/PointingToDeclaration/app/com.example.recipeapp.entities/-recipe-ent/describe-contents.html
 $dokka.location:com.example.recipeapp.entities/RecipeEnt/description/#/PointingToDeclaration/app/com.example.recipeapp.entities/-recipe-ent/description.html
 $dokka.location:com.example.recipeapp.entities/RecipeEnt/id/#/PointingToDeclaration/app/com.example.recipeapp.entities/-recipe-ent/id.html
 $dokka.location:com.example.recipeapp.entities/RecipeEnt/ingredients/#/PointingToDeclaration/app/com.example.recipeapp.entities/-recipe-ent/ingredients.html
 $dokka.location:com.example.recipeapp.entities/RecipeEnt/method/#/PointingToDeclaration/app/com.example.recipeapp.entities/-recipe-ent/method.html
 $dokka.location:com.example.recipeapp.entities/RecipeEnt/name/#/PointingToDeclaration/app/com.example.recipeapp.entities/-recipe-ent/name.html
+$dokka.location:com.example.recipeapp.entities/RecipeEnt/recipeShopping/#/PointingToDeclaration/app/com.example.recipeapp.entities/-recipe-ent/recipe-shopping.html
 $dokka.location:com.example.recipeapp.entities/RecipeEnt/region/#/PointingToDeclaration/app/com.example.recipeapp.entities/-recipe-ent/region.html
 $dokka.location:com.example.recipeapp.entities/RecipeEnt/servings/#/PointingToDeclaration/app/com.example.recipeapp.entities/-recipe-ent/servings.html
 $dokka.location:com.example.recipeapp.entities/RecipeEnt/writeToParcel/#android.os.Parcel#kotlin.Int/PointingToDeclaration/app/com.example.recipeapp.entities/-recipe-ent/write-to-parcel.html
