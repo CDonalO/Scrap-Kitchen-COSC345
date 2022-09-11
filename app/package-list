@@ -83,10 +83,6 @@ $dokka.location:com.example.recipeapp.fragments/Recipe/Recipe/#kotlin.Int/Pointi
 $dokka.location:com.example.recipeapp.fragments/Recipe/onCreateView/#android.view.LayoutInflater#android.view.ViewGroup?#android.os.Bundle?/PointingToDeclaration/app/com.example.recipeapp.fragments/-recipe/on-create-view.html
 $dokka.location:com.example.recipeapp.fragments/Recipe/onItemClick/#com.example.recipeapp.entities.RecipeEnt/PointingToDeclaration/app/com.example.recipeapp.fragments/-recipe/on-item-click.html
 $dokka.location:com.example.recipeapp.fragments/Recipe/toString/#/PointingToDeclaration/app/com.example.recipeapp.fragments/-recipe/to-string.html
-$dokka.location:com.example.recipeapp.fragments/RegionSelect///PointingToDeclaration/app/com.example.recipeapp.fragments/-region-select/index.html
-$dokka.location:com.example.recipeapp.fragments/RegionSelect/RegionSelect/#androidx.fragment.app.FragmentManager/PointingToDeclaration/app/com.example.recipeapp.fragments/-region-select/-region-select.html
-$dokka.location:com.example.recipeapp.fragments/RegionSelect/onClick/#android.view.View?/PointingToDeclaration/app/com.example.recipeapp.fragments/-region-select/on-click.html
-$dokka.location:com.example.recipeapp.fragments/RegionSelect/onCreateView/#android.view.LayoutInflater#android.view.ViewGroup?#android.os.Bundle?/PointingToDeclaration/app/com.example.recipeapp.fragments/-region-select/on-create-view.html
 $dokka.location:com.example.recipeapp.fragments/RegionSelectNew///PointingToDeclaration/app/com.example.recipeapp.fragments/-region-select-new/index.html
 $dokka.location:com.example.recipeapp.fragments/RegionSelectNew/RegionSelectNew/#androidx.fragment.app.FragmentManager/PointingToDeclaration/app/com.example.recipeapp.fragments/-region-select-new/-region-select-new.html
 $dokka.location:com.example.recipeapp.fragments/RegionSelectNew/onClick/#android.view.View?/PointingToDeclaration/app/com.example.recipeapp.fragments/-region-select-new/on-click.html
