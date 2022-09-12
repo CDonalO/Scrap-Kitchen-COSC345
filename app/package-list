@@ -11,10 +11,10 @@ $dokka.location:com.example.recipeapp.activities/MainActivity.Companion/setConti
 $dokka.location:com.example.recipeapp.activities/MainActivity///PointingToDeclaration/app/com.example.recipeapp.activities/-main-activity/index.html
 $dokka.location:com.example.recipeapp.activities/MainActivity/MainActivity/#/PointingToDeclaration/app/com.example.recipeapp.activities/-main-activity/-main-activity.html
 $dokka.location:com.example.recipeapp.activities/MainActivity/onBackPressed/#/PointingToDeclaration/app/com.example.recipeapp.activities/-main-activity/on-back-pressed.html
-$dokka.location:com.example.recipeapp.activities/MainActivity/onCreateOptionsMenu/#android.view.Menu?/PointingToDeclaration/app/com.example.recipeapp.activities/-main-activity/on-create-options-menu.html
 $dokka.location:com.example.recipeapp.activities/RecipeDetailActivity///PointingToDeclaration/app/com.example.recipeapp.activities/-recipe-detail-activity/index.html
 $dokka.location:com.example.recipeapp.activities/RecipeDetailActivity/RecipeDetailActivity/#/PointingToDeclaration/app/com.example.recipeapp.activities/-recipe-detail-activity/-recipe-detail-activity.html
 $dokka.location:com.example.recipeapp.activities/RecipeDetailActivity/onCreateOptionsMenu/#android.view.Menu?/PointingToDeclaration/app/com.example.recipeapp.activities/-recipe-detail-activity/on-create-options-menu.html
+$dokka.location:com.example.recipeapp.activities/RecipeDetailActivity/onOptionsItemSelected/#android.view.MenuItem/PointingToDeclaration/app/com.example.recipeapp.activities/-recipe-detail-activity/on-options-item-selected.html
 $dokka.location:com.example.recipeapp.dao////PointingToDeclaration/app/com.example.recipeapp.dao/index.html
 $dokka.location:com.example.recipeapp.dao/Emojis///PointingToDeclaration/app/com.example.recipeapp.dao/-emojis/index.html
 $dokka.location:com.example.recipeapp.dao/Emojis/Emojis/#kotlin.collections.Map[kotlin.String,kotlin.String]/PointingToDeclaration/app/com.example.recipeapp.dao/-emojis/-emojis.html
