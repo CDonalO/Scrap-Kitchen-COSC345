@@ -34,6 +34,7 @@ $dokka.location:com.example.recipeapp.dao/RecipeEntDAO///PointingToDeclaration/
 $dokka.location:com.example.recipeapp.dao/RecipeEntDAO/getRecipeByCountry/#kotlin.Int/PointingToDeclaration/app/com.example.recipeapp.dao/-recipe-ent-d-a-o/get-recipe-by-country.html
 $dokka.location:com.example.recipeapp.dao/RecipeEntDAO/getRecipeById/#kotlin.Int/PointingToDeclaration/app/com.example.recipeapp.dao/-recipe-ent-d-a-o/get-recipe-by-id.html
 $dokka.location:com.example.recipeapp.dao/RecipeEntDAO/getRecipes/#/PointingToDeclaration/app/com.example.recipeapp.dao/-recipe-ent-d-a-o/get-recipes.html
+$dokka.location:com.example.recipeapp.dao/RecipeEntDAO/insertRecipe/#com.example.recipeapp.entities.RecipeEnt/PointingToDeclaration/app/com.example.recipeapp.dao/-recipe-ent-d-a-o/insert-recipe.html
 $dokka.location:com.example.recipeapp.dao/ShoppingItemEntDAO///PointingToDeclaration/app/com.example.recipeapp.dao/-shopping-item-ent-d-a-o/index.html
 $dokka.location:com.example.recipeapp.dao/ShoppingItemEntDAO/addItem/#com.example.recipeapp.entities.ShoppingItemEnt/PointingToDeclaration/app/com.example.recipeapp.dao/-shopping-item-ent-d-a-o/add-item.html
 $dokka.location:com.example.recipeapp.dao/ShoppingItemEntDAO/checkItem/#kotlin.Int#kotlin.Boolean/PointingToDeclaration/app/com.example.recipeapp.dao/-shopping-item-ent-d-a-o/check-item.html
