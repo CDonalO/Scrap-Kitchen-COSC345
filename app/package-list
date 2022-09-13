@@ -34,7 +34,6 @@ $dokka.location:com.example.recipeapp.dao/RecipeEntDAO///PointingToDeclaration/
 $dokka.location:com.example.recipeapp.dao/RecipeEntDAO/getRecipeByCountry/#kotlin.Int/PointingToDeclaration/app/com.example.recipeapp.dao/-recipe-ent-d-a-o/get-recipe-by-country.html
 $dokka.location:com.example.recipeapp.dao/RecipeEntDAO/getRecipeById/#kotlin.Int/PointingToDeclaration/app/com.example.recipeapp.dao/-recipe-ent-d-a-o/get-recipe-by-id.html
 $dokka.location:com.example.recipeapp.dao/RecipeEntDAO/getRecipes/#/PointingToDeclaration/app/com.example.recipeapp.dao/-recipe-ent-d-a-o/get-recipes.html
-$dokka.location:com.example.recipeapp.dao/RecipeEntDAO/insertRecipe/#com.example.recipeapp.entities.RecipeEnt/PointingToDeclaration/app/com.example.recipeapp.dao/-recipe-ent-d-a-o/insert-recipe.html
 $dokka.location:com.example.recipeapp.dao/ShoppingItemEntDAO///PointingToDeclaration/app/com.example.recipeapp.dao/-shopping-item-ent-d-a-o/index.html
 $dokka.location:com.example.recipeapp.dao/ShoppingItemEntDAO/addItem/#com.example.recipeapp.entities.ShoppingItemEnt/PointingToDeclaration/app/com.example.recipeapp.dao/-shopping-item-ent-d-a-o/add-item.html
 $dokka.location:com.example.recipeapp.dao/ShoppingItemEntDAO/checkItem/#kotlin.Int#kotlin.Boolean/PointingToDeclaration/app/com.example.recipeapp.dao/-shopping-item-ent-d-a-o/check-item.html
@@ -93,6 +92,7 @@ $dokka.location:com.example.recipeapp.fragments/ShoppingList/ShoppingList/#/Poin
 $dokka.location:com.example.recipeapp.fragments/ShoppingList/onCreate/#android.os.Bundle?/PointingToDeclaration/app/com.example.recipeapp.fragments/-shopping-list/on-create.html
 $dokka.location:com.example.recipeapp.fragments/ShoppingList/onCreateOptionsMenu/#android.view.Menu#android.view.MenuInflater/PointingToDeclaration/app/com.example.recipeapp.fragments/-shopping-list/on-create-options-menu.html
 $dokka.location:com.example.recipeapp.fragments/ShoppingList/onItemCheck/#com.example.recipeapp.entities.ShoppingItemEnt/PointingToDeclaration/app/com.example.recipeapp.fragments/-shopping-list/on-item-check.html
+$dokka.location:com.example.recipeapp.fragments/ShoppingList/onItemSwipe/#com.example.recipeapp.entities.ShoppingItemEnt/PointingToDeclaration/app/com.example.recipeapp.fragments/-shopping-list/on-item-swipe.html
 $dokka.location:com.example.recipeapp.fragments/ShoppingList/onOptionsItemSelected/#android.view.MenuItem/PointingToDeclaration/app/com.example.recipeapp.fragments/-shopping-list/on-options-item-selected.html
 $dokka.location:com.example.recipeapp.fragments/ShoppingList/onPause/#/PointingToDeclaration/app/com.example.recipeapp.fragments/-shopping-list/on-pause.html
 $dokka.location:com.example.recipeapp.fragments/ShoppingList/onResume/#/PointingToDeclaration/app/com.example.recipeapp.fragments/-shopping-list/on-resume.html
@@ -138,11 +138,17 @@ $dokka.location:com.example.recipeapp/SItemAdapter.MyViewHolder/name/#/PointingT
 $dokka.location:com.example.recipeapp/SItemAdapter.MyViewHolder/onClick/#android.view.View/PointingToDeclaration/app/com.example.recipeapp/-s-item-adapter/-my-view-holder/on-click.html
 $dokka.location:com.example.recipeapp/SItemAdapter.OnItemCheckListener///PointingToDeclaration/app/com.example.recipeapp/-s-item-adapter/-on-item-check-listener/index.html
 $dokka.location:com.example.recipeapp/SItemAdapter.OnItemCheckListener/onItemCheck/#com.example.recipeapp.entities.ShoppingItemEnt/PointingToDeclaration/app/com.example.recipeapp/-s-item-adapter/-on-item-check-listener/on-item-check.html
+$dokka.location:com.example.recipeapp/SItemAdapter.OnItemCheckListener/onItemSwipe/#com.example.recipeapp.entities.ShoppingItemEnt/PointingToDeclaration/app/com.example.recipeapp/-s-item-adapter/-on-item-check-listener/on-item-swipe.html
 $dokka.location:com.example.recipeapp/SItemAdapter///PointingToDeclaration/app/com.example.recipeapp/-s-item-adapter/index.html
 $dokka.location:com.example.recipeapp/SItemAdapter/SItemAdapter/#kotlin.collections.List[com.example.recipeapp.entities.ShoppingItemEnt]#com.example.recipeapp.fragments.ShoppingList/PointingToDeclaration/app/com.example.recipeapp/-s-item-adapter/-s-item-adapter.html
+$dokka.location:com.example.recipeapp/SItemAdapter/deleteItem/#kotlin.Int/PointingToDeclaration/app/com.example.recipeapp/-s-item-adapter/delete-item.html
 $dokka.location:com.example.recipeapp/SItemAdapter/getItemCount/#/PointingToDeclaration/app/com.example.recipeapp/-s-item-adapter/get-item-count.html
 $dokka.location:com.example.recipeapp/SItemAdapter/onBindViewHolder/#com.example.recipeapp.SItemAdapter.MyViewHolder#kotlin.Int/PointingToDeclaration/app/com.example.recipeapp/-s-item-adapter/on-bind-view-holder.html
 $dokka.location:com.example.recipeapp/SItemAdapter/onCreateViewHolder/#android.view.ViewGroup#kotlin.Int/PointingToDeclaration/app/com.example.recipeapp/-s-item-adapter/on-create-view-holder.html
+$dokka.location:com.example.recipeapp/SwipeGesture///PointingToDeclaration/app/com.example.recipeapp/-swipe-gesture/index.html
+$dokka.location:com.example.recipeapp/SwipeGesture/SwipeGesture/#/PointingToDeclaration/app/com.example.recipeapp/-swipe-gesture/-swipe-gesture.html
+$dokka.location:com.example.recipeapp/SwipeGesture/onMove/#androidx.recyclerview.widget.RecyclerView#androidx.recyclerview.widget.RecyclerView.ViewHolder#androidx.recyclerview.widget.RecyclerView.ViewHolder/PointingToDeclaration/app/com.example.recipeapp/-swipe-gesture/on-move.html
+$dokka.location:com.example.recipeapp/SwipeGesture/onSwiped/#androidx.recyclerview.widget.RecyclerView.ViewHolder#kotlin.Int/PointingToDeclaration/app/com.example.recipeapp/-swipe-gesture/on-swiped.html
 $dokka.location:com.example.recipeapp/Util.Companion///PointingToDeclaration/app/com.example.recipeapp/-util/-companion/index.html
 $dokka.location:com.example.recipeapp/Util.Companion/mapByProp/#kotlin.collections.List[com.example.recipeapp.entities.ShoppingItemEnt]/PointingToDeclaration/app/com.example.recipeapp/-util/-companion/map-by-prop.html
 $dokka.location:com.example.recipeapp/Util.Companion/titleCase/#kotlin.String/PointingToDeclaration/app/com.example.recipeapp/-util/-companion/title-case.html
