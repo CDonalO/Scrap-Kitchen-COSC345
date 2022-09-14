@@ -153,9 +153,9 @@ $dokka.location:com.example.recipeapp/SItemAdapter/onCreateViewHolder/#android.v
 $dokka.location:com.example.recipeapp/SwipeGesture///PointingToDeclaration/app/com.example.recipeapp/-swipe-gesture/index.html
 $dokka.location:com.example.recipeapp/SwipeGesture/SwipeGesture/#/PointingToDeclaration/app/com.example.recipeapp/-swipe-gesture/-swipe-gesture.html
 $dokka.location:com.example.recipeapp/SwipeGesture/onMove/#androidx.recyclerview.widget.RecyclerView#androidx.recyclerview.widget.RecyclerView.ViewHolder#androidx.recyclerview.widget.RecyclerView.ViewHolder/PointingToDeclaration/app/com.example.recipeapp/-swipe-gesture/on-move.html
-$dokka.location:com.example.recipeapp/SwipeGesture/onSwiped/#androidx.recyclerview.widget.RecyclerView.ViewHolder#kotlin.Int/PointingToDeclaration/app/com.example.recipeapp/-swipe-gesture/on-swiped.html
 $dokka.location:com.example.recipeapp/Util.Companion///PointingToDeclaration/app/com.example.recipeapp/-util/-companion/index.html
 $dokka.location:com.example.recipeapp/Util.Companion/mapByProp/#kotlin.collections.List[com.example.recipeapp.entities.ShoppingItemEnt]/PointingToDeclaration/app/com.example.recipeapp/-util/-companion/map-by-prop.html
+$dokka.location:com.example.recipeapp/Util.Companion/stringToFormattedList/#kotlin.String/PointingToDeclaration/app/com.example.recipeapp/-util/-companion/string-to-formatted-list.html
 $dokka.location:com.example.recipeapp/Util.Companion/titleCase/#kotlin.String/PointingToDeclaration/app/com.example.recipeapp/-util/-companion/title-case.html
 $dokka.location:com.example.recipeapp/Util///PointingToDeclaration/app/com.example.recipeapp/-util/index.html
 $dokka.location:com.example.recipeapp/Util/Util/#/PointingToDeclaration/app/com.example.recipeapp/-util/-util.html
