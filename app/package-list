@@ -1,5 +1,9 @@
 $dokka.format:html-v1
 $dokka.linkExtension:html
+$dokka.location:////PointingToDeclaration/app/[root]/index.html
+$dokka.location:/AddMealPlannerDialog///PointingToDeclaration/app/[root]/-add-meal-planner-dialog/index.html
+$dokka.location:/AddMealPlannerDialog/AddMealPlannerDialog/#/PointingToDeclaration/app/[root]/-add-meal-planner-dialog/-add-meal-planner-dialog.html
+$dokka.location:/AddMealPlannerDialog/onCreateDialog/#android.os.Bundle?/PointingToDeclaration/app/[root]/-add-meal-planner-dialog/on-create-dialog.html
 $dokka.location:com.example.recipeapp.activities////PointingToDeclaration/app/com.example.recipeapp.activities/index.html
 $dokka.location:com.example.recipeapp.activities/AddShoppingItem///PointingToDeclaration/app/com.example.recipeapp.activities/-add-shopping-item/index.html
 $dokka.location:com.example.recipeapp.activities/AddShoppingItem/AddShoppingItem/#/PointingToDeclaration/app/com.example.recipeapp.activities/-add-shopping-item/-add-shopping-item.html
