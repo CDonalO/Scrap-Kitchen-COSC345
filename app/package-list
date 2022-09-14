@@ -1,9 +1,5 @@
 $dokka.format:html-v1
 $dokka.linkExtension:html
-$dokka.location:////PointingToDeclaration/app/[root]/index.html
-$dokka.location:/AddMealPlannerDialog///PointingToDeclaration/app/[root]/-add-meal-planner-dialog/index.html
-$dokka.location:/AddMealPlannerDialog/AddMealPlannerDialog/#/PointingToDeclaration/app/[root]/-add-meal-planner-dialog/-add-meal-planner-dialog.html
-$dokka.location:/AddMealPlannerDialog/onCreateDialog/#android.os.Bundle?/PointingToDeclaration/app/[root]/-add-meal-planner-dialog/on-create-dialog.html
 $dokka.location:com.example.recipeapp.activities////PointingToDeclaration/app/com.example.recipeapp.activities/index.html
 $dokka.location:com.example.recipeapp.activities/AddShoppingItem///PointingToDeclaration/app/com.example.recipeapp.activities/-add-shopping-item/index.html
 $dokka.location:com.example.recipeapp.activities/AddShoppingItem/AddShoppingItem/#/PointingToDeclaration/app/com.example.recipeapp.activities/-add-shopping-item/-add-shopping-item.html
@@ -77,6 +73,9 @@ $dokka.location:com.example.recipeapp.entities/ShoppingItemEnt/id/#/PointingToDe
 $dokka.location:com.example.recipeapp.entities/ShoppingItemEnt/item/#/PointingToDeclaration/app/com.example.recipeapp.entities/-shopping-item-ent/item.html
 $dokka.location:com.example.recipeapp.entities/ShoppingItemEnt/metric/#/PointingToDeclaration/app/com.example.recipeapp.entities/-shopping-item-ent/metric.html
 $dokka.location:com.example.recipeapp.fragments////PointingToDeclaration/app/com.example.recipeapp.fragments/index.html
+$dokka.location:com.example.recipeapp.fragments/AddMealPlannerDialog///PointingToDeclaration/app/com.example.recipeapp.fragments/-add-meal-planner-dialog/index.html
+$dokka.location:com.example.recipeapp.fragments/AddMealPlannerDialog/AddMealPlannerDialog/#/PointingToDeclaration/app/com.example.recipeapp.fragments/-add-meal-planner-dialog/-add-meal-planner-dialog.html
+$dokka.location:com.example.recipeapp.fragments/AddMealPlannerDialog/onCreateDialog/#android.os.Bundle?/PointingToDeclaration/app/com.example.recipeapp.fragments/-add-meal-planner-dialog/on-create-dialog.html
 $dokka.location:com.example.recipeapp.fragments/MealPlanner///PointingToDeclaration/app/com.example.recipeapp.fragments/-meal-planner/index.html
 $dokka.location:com.example.recipeapp.fragments/MealPlanner/MealPlanner/#/PointingToDeclaration/app/com.example.recipeapp.fragments/-meal-planner/-meal-planner.html
 $dokka.location:com.example.recipeapp.fragments/MealPlanner/onClick/#android.view.View/PointingToDeclaration/app/com.example.recipeapp.fragments/-meal-planner/on-click.html
@@ -131,8 +130,6 @@ $dokka.location:com.example.recipeapp/ListAdapter/getItemCount/#/PointingToDecla
 $dokka.location:com.example.recipeapp/ListAdapter/onBindViewHolder/#com.example.recipeapp.ListAdapter.MyViewHolder#kotlin.Int/PointingToDeclaration/app/com.example.recipeapp/-list-adapter/on-bind-view-holder.html
 $dokka.location:com.example.recipeapp/ListAdapter/onCreateViewHolder/#android.view.ViewGroup#kotlin.Int/PointingToDeclaration/app/com.example.recipeapp/-list-adapter/on-create-view-holder.html
 $dokka.location:com.example.recipeapp/ListAdapter/setRecipeList/#kotlin.collections.List[com.example.recipeapp.entities.RecipeEnt]/PointingToDeclaration/app/com.example.recipeapp/-list-adapter/set-recipe-list.html
-$dokka.location:com.example.recipeapp/RecipeFilter///PointingToDeclaration/app/com.example.recipeapp/-recipe-filter/index.html
-$dokka.location:com.example.recipeapp/RecipeFilter/RecipeFilter/#/PointingToDeclaration/app/com.example.recipeapp/-recipe-filter/-recipe-filter.html
 $dokka.location:com.example.recipeapp/SItemAdapter.Companion///PointingToDeclaration/app/com.example.recipeapp/-s-item-adapter/-companion/index.html
 $dokka.location:com.example.recipeapp/SItemAdapter.Companion/generateText/#kotlin.String#kotlin.Int/PointingToDeclaration/app/com.example.recipeapp/-s-item-adapter/-companion/generate-text.html
 $dokka.location:com.example.recipeapp/SItemAdapter.MyViewHolder///PointingToDeclaration/app/com.example.recipeapp/-s-item-adapter/-my-view-holder/index.html
