@@ -29,6 +29,7 @@ $dokka.location:com.example.recipeapp.dao/Maps/NORTH_AMERICA/#/PointingToDeclara
 $dokka.location:com.example.recipeapp.dao/Maps/OCEANIA/#/PointingToDeclaration/app/com.example.recipeapp.dao/-maps/-o-c-e-a-n-i-a.html
 $dokka.location:com.example.recipeapp.dao/Maps/SOUTH_AMERICA/#/PointingToDeclaration/app/com.example.recipeapp.dao/-maps/-s-o-u-t-h_-a-m-e-r-i-c-a.html
 $dokka.location:com.example.recipeapp.dao/MealPlannerEntDAO///PointingToDeclaration/app/com.example.recipeapp.dao/-meal-planner-ent-d-a-o/index.html
+$dokka.location:com.example.recipeapp.dao/MealPlannerEntDAO/addToMealPlanner/#kotlin.Int#kotlin.Int/PointingToDeclaration/app/com.example.recipeapp.dao/-meal-planner-ent-d-a-o/add-to-meal-planner.html
 $dokka.location:com.example.recipeapp.dao/MealPlannerEntDAO/getMealPlanner/#/PointingToDeclaration/app/com.example.recipeapp.dao/-meal-planner-ent-d-a-o/get-meal-planner.html
 $dokka.location:com.example.recipeapp.dao/RecipeEntDAO///PointingToDeclaration/app/com.example.recipeapp.dao/-recipe-ent-d-a-o/index.html
 $dokka.location:com.example.recipeapp.dao/RecipeEntDAO/getRecipeByCountry/#kotlin.Int/PointingToDeclaration/app/com.example.recipeapp.dao/-recipe-ent-d-a-o/get-recipe-by-country.html
@@ -74,8 +75,9 @@ $dokka.location:com.example.recipeapp.entities/ShoppingItemEnt/item/#/PointingTo
 $dokka.location:com.example.recipeapp.entities/ShoppingItemEnt/metric/#/PointingToDeclaration/app/com.example.recipeapp.entities/-shopping-item-ent/metric.html
 $dokka.location:com.example.recipeapp.fragments////PointingToDeclaration/app/com.example.recipeapp.fragments/index.html
 $dokka.location:com.example.recipeapp.fragments/AddMealPlannerDialog///PointingToDeclaration/app/com.example.recipeapp.fragments/-add-meal-planner-dialog/index.html
-$dokka.location:com.example.recipeapp.fragments/AddMealPlannerDialog/AddMealPlannerDialog/#/PointingToDeclaration/app/com.example.recipeapp.fragments/-add-meal-planner-dialog/-add-meal-planner-dialog.html
+$dokka.location:com.example.recipeapp.fragments/AddMealPlannerDialog/AddMealPlannerDialog/#com.example.recipeapp.entities.RecipeEnt#android.content.Context/PointingToDeclaration/app/com.example.recipeapp.fragments/-add-meal-planner-dialog/-add-meal-planner-dialog.html
 $dokka.location:com.example.recipeapp.fragments/AddMealPlannerDialog/onCreateDialog/#android.os.Bundle?/PointingToDeclaration/app/com.example.recipeapp.fragments/-add-meal-planner-dialog/on-create-dialog.html
+$dokka.location:com.example.recipeapp.fragments/AddMealPlannerDialog/recipe/#/PointingToDeclaration/app/com.example.recipeapp.fragments/-add-meal-planner-dialog/recipe.html
 $dokka.location:com.example.recipeapp.fragments/MealPlanner///PointingToDeclaration/app/com.example.recipeapp.fragments/-meal-planner/index.html
 $dokka.location:com.example.recipeapp.fragments/MealPlanner/MealPlanner/#/PointingToDeclaration/app/com.example.recipeapp.fragments/-meal-planner/-meal-planner.html
 $dokka.location:com.example.recipeapp.fragments/MealPlanner/onClick/#android.view.View/PointingToDeclaration/app/com.example.recipeapp.fragments/-meal-planner/on-click.html
