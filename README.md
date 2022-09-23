@@ -1,5 +1,7 @@
 #Scrap Kitchen
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d5c70c69b5bb40d7889c29f1e3170bb4)](https://app.codacy.com/gh/CDonalO/Scrap-Kitchen-COSC345?utm_source=github.com&utm_medium=referral&utm_content=CDonalO/Scrap-Kitchen-COSC345&utm_campaign=Badge_Grade_Settings)
+
 In the current alpha version the working features are
 
   - recipe filtering by region or ingredient
