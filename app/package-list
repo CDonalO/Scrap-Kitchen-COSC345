@@ -66,7 +66,7 @@ $dokka.location:com.example.recipeapp.entities/RecipeEnt/region/#/PointingToDecl
 $dokka.location:com.example.recipeapp.entities/RecipeEnt/servings/#/PointingToDeclaration/app/com.example.recipeapp.entities/-recipe-ent/servings.html
 $dokka.location:com.example.recipeapp.entities/RecipeEnt/writeToParcel/#android.os.Parcel#kotlin.Int/PointingToDeclaration/app/com.example.recipeapp.entities/-recipe-ent/write-to-parcel.html
 $dokka.location:com.example.recipeapp.entities/ShoppingItemEnt///PointingToDeclaration/app/com.example.recipeapp.entities/-shopping-item-ent/index.html
-$dokka.location:com.example.recipeapp.entities/ShoppingItemEnt/ShoppingItemEnt/#kotlin.Int#kotlin.String#kotlin.Int#kotlin.String#kotlin.Boolean#kotlin.String/PointingToDeclaration/app/com.example.recipeapp.entities/-shopping-item-ent/-shopping-item-ent.html
+$dokka.location:com.example.recipeapp.entities/ShoppingItemEnt/ShoppingItemEnt/#kotlin.Int#kotlin.String#kotlin.Double#kotlin.String#kotlin.Boolean#kotlin.String/PointingToDeclaration/app/com.example.recipeapp.entities/-shopping-item-ent/-shopping-item-ent.html
 $dokka.location:com.example.recipeapp.entities/ShoppingItemEnt/amount/#/PointingToDeclaration/app/com.example.recipeapp.entities/-shopping-item-ent/amount.html
 $dokka.location:com.example.recipeapp.entities/ShoppingItemEnt/cat/#/PointingToDeclaration/app/com.example.recipeapp.entities/-shopping-item-ent/cat.html
 $dokka.location:com.example.recipeapp.entities/ShoppingItemEnt/checked/#/PointingToDeclaration/app/com.example.recipeapp.entities/-shopping-item-ent/checked.html
@@ -133,7 +133,7 @@ $dokka.location:com.example.recipeapp/ListAdapter/onBindViewHolder/#com.example.
 $dokka.location:com.example.recipeapp/ListAdapter/onCreateViewHolder/#android.view.ViewGroup#kotlin.Int/PointingToDeclaration/app/com.example.recipeapp/-list-adapter/on-create-view-holder.html
 $dokka.location:com.example.recipeapp/ListAdapter/setRecipeList/#kotlin.collections.List[com.example.recipeapp.entities.RecipeEnt]/PointingToDeclaration/app/com.example.recipeapp/-list-adapter/set-recipe-list.html
 $dokka.location:com.example.recipeapp/SItemAdapter.Companion///PointingToDeclaration/app/com.example.recipeapp/-s-item-adapter/-companion/index.html
-$dokka.location:com.example.recipeapp/SItemAdapter.Companion/generateText/#kotlin.String#kotlin.Int/PointingToDeclaration/app/com.example.recipeapp/-s-item-adapter/-companion/generate-text.html
+$dokka.location:com.example.recipeapp/SItemAdapter.Companion/generateText/#kotlin.String#kotlin.Double/PointingToDeclaration/app/com.example.recipeapp/-s-item-adapter/-companion/generate-text.html
 $dokka.location:com.example.recipeapp/SItemAdapter.MyViewHolder///PointingToDeclaration/app/com.example.recipeapp/-s-item-adapter/-my-view-holder/index.html
 $dokka.location:com.example.recipeapp/SItemAdapter.MyViewHolder/MyViewHolder/#android.view.View#com.example.recipeapp.fragments.ShoppingList/PointingToDeclaration/app/com.example.recipeapp/-s-item-adapter/-my-view-holder/-my-view-holder.html
 $dokka.location:com.example.recipeapp/SItemAdapter.MyViewHolder/metric/#/PointingToDeclaration/app/com.example.recipeapp/-s-item-adapter/-my-view-holder/metric.html
