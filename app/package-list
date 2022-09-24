@@ -137,6 +137,11 @@ $dokka.location:com.example.recipeapp.ui.shoppingList/AddListFromRecipeFragment/
 $dokka.location:com.example.recipeapp.ui.shoppingList/AddShoppingItemFragment///PointingToDeclaration/app/com.example.recipeapp.ui.shoppingList/-add-shopping-item-fragment/index.html
 $dokka.location:com.example.recipeapp.ui.shoppingList/AddShoppingItemFragment/AddShoppingItemFragment/#/PointingToDeclaration/app/com.example.recipeapp.ui.shoppingList/-add-shopping-item-fragment/-add-shopping-item-fragment.html
 $dokka.location:com.example.recipeapp.ui.shoppingList/AddShoppingItemFragment/onCreateView/#android.view.LayoutInflater#android.view.ViewGroup?#android.os.Bundle?/PointingToDeclaration/app/com.example.recipeapp.ui.shoppingList/-add-shopping-item-fragment/on-create-view.html
+$dokka.location:com.example.recipeapp.ui.shoppingList/ShoppingListFragment///PointingToDeclaration/app/com.example.recipeapp.ui.shoppingList/-shopping-list-fragment/index.html
+$dokka.location:com.example.recipeapp.ui.shoppingList/ShoppingListFragment/ShoppingListFragment/#/PointingToDeclaration/app/com.example.recipeapp.ui.shoppingList/-shopping-list-fragment/-shopping-list-fragment.html
+$dokka.location:com.example.recipeapp.ui.shoppingList/ShoppingListFragment/onCreateView/#android.view.LayoutInflater#android.view.ViewGroup?#android.os.Bundle?/PointingToDeclaration/app/com.example.recipeapp.ui.shoppingList/-shopping-list-fragment/on-create-view.html
+$dokka.location:com.example.recipeapp.ui.shoppingList/ShoppingListFragment/onPause/#/PointingToDeclaration/app/com.example.recipeapp.ui.shoppingList/-shopping-list-fragment/on-pause.html
+$dokka.location:com.example.recipeapp.ui.shoppingList/ShoppingListFragment/toString/#/PointingToDeclaration/app/com.example.recipeapp.ui.shoppingList/-shopping-list-fragment/to-string.html
 $dokka.location:com.example.recipeapp.ui.shoppingList/ShoppingListItemAdapter.MyViewHolder///PointingToDeclaration/app/com.example.recipeapp.ui.shoppingList/-shopping-list-item-adapter/-my-view-holder/index.html
 $dokka.location:com.example.recipeapp.ui.shoppingList/ShoppingListItemAdapter.MyViewHolder/MyViewHolder/#android.view.View/PointingToDeclaration/app/com.example.recipeapp.ui.shoppingList/-shopping-list-item-adapter/-my-view-holder/-my-view-holder.html
 $dokka.location:com.example.recipeapp.ui.shoppingList/ShoppingListItemAdapter.MyViewHolder/checkbox/#/PointingToDeclaration/app/com.example.recipeapp.ui.shoppingList/-shopping-list-item-adapter/-my-view-holder/checkbox.html
@@ -192,11 +197,6 @@ $dokka.location:com.example.scrapkitchen.ui.shoppingList/CategoryAdapter/Categor
 $dokka.location:com.example.scrapkitchen.ui.shoppingList/CategoryAdapter/getItemCount/#/PointingToDeclaration/app/com.example.scrapkitchen.ui.shoppingList/-category-adapter/get-item-count.html
 $dokka.location:com.example.scrapkitchen.ui.shoppingList/CategoryAdapter/onBindViewHolder/#com.example.scrapkitchen.ui.shoppingList.CategoryAdapter.MyViewHolder#kotlin.Int/PointingToDeclaration/app/com.example.scrapkitchen.ui.shoppingList/-category-adapter/on-bind-view-holder.html
 $dokka.location:com.example.scrapkitchen.ui.shoppingList/CategoryAdapter/onCreateViewHolder/#android.view.ViewGroup#kotlin.Int/PointingToDeclaration/app/com.example.scrapkitchen.ui.shoppingList/-category-adapter/on-create-view-holder.html
-$dokka.location:com.example.scrapkitchen.ui.shoppingList/ShoppingListFragment///PointingToDeclaration/app/com.example.scrapkitchen.ui.shoppingList/-shopping-list-fragment/index.html
-$dokka.location:com.example.scrapkitchen.ui.shoppingList/ShoppingListFragment/ShoppingListFragment/#/PointingToDeclaration/app/com.example.scrapkitchen.ui.shoppingList/-shopping-list-fragment/-shopping-list-fragment.html
-$dokka.location:com.example.scrapkitchen.ui.shoppingList/ShoppingListFragment/onCreateView/#android.view.LayoutInflater#android.view.ViewGroup?#android.os.Bundle?/PointingToDeclaration/app/com.example.scrapkitchen.ui.shoppingList/-shopping-list-fragment/on-create-view.html
-$dokka.location:com.example.scrapkitchen.ui.shoppingList/ShoppingListFragment/onPause/#/PointingToDeclaration/app/com.example.scrapkitchen.ui.shoppingList/-shopping-list-fragment/on-pause.html
-$dokka.location:com.example.scrapkitchen.ui.shoppingList/ShoppingListFragment/toString/#/PointingToDeclaration/app/com.example.scrapkitchen.ui.shoppingList/-shopping-list-fragment/to-string.html
 com.example.recipeapp
 com.example.recipeapp.activities
 com.example.recipeapp.consts
