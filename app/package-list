@@ -35,6 +35,7 @@ $dokka.location:com.example.recipeapp.db.dao/ShoppingItemEntDAO/addItem/#com.exa
 $dokka.location:com.example.recipeapp.db.dao/ShoppingItemEntDAO/checkItem/#kotlin.Int#kotlin.Boolean/PointingToDeclaration/app/com.example.recipeapp.db.dao/-shopping-item-ent-d-a-o/check-item.html
 $dokka.location:com.example.recipeapp.db.dao/ShoppingItemEntDAO/getItem/#kotlin.Int/PointingToDeclaration/app/com.example.recipeapp.db.dao/-shopping-item-ent-d-a-o/get-item.html
 $dokka.location:com.example.recipeapp.db.dao/ShoppingItemEntDAO/getShoppingList/#/PointingToDeclaration/app/com.example.recipeapp.db.dao/-shopping-item-ent-d-a-o/get-shopping-list.html
+$dokka.location:com.example.recipeapp.db.dao/ShoppingItemEntDAO/removeItem/#com.example.recipeapp.db.entities.ShoppingItemEnt/PointingToDeclaration/app/com.example.recipeapp.db.dao/-shopping-item-ent-d-a-o/remove-item.html
 $dokka.location:com.example.recipeapp.db.dao/ShoppingItemEntDAO/removedChecked/#/PointingToDeclaration/app/com.example.recipeapp.db.dao/-shopping-item-ent-d-a-o/removed-checked.html
 $dokka.location:com.example.recipeapp.db.dao/ShoppingItemEntDAO/updateItem/#com.example.recipeapp.db.entities.ShoppingItemEnt/PointingToDeclaration/app/com.example.recipeapp.db.dao/-shopping-item-ent-d-a-o/update-item.html
 $dokka.location:com.example.recipeapp.db.entities////PointingToDeclaration/app/com.example.recipeapp.db.entities/index.html
@@ -78,6 +79,7 @@ $dokka.location:com.example.recipeapp.db.repos/ShoppingItemRepo/addItem/#com.exa
 $dokka.location:com.example.recipeapp.db.repos/ShoppingItemRepo/checkItem/#kotlin.Int#kotlin.Boolean/PointingToDeclaration/app/com.example.recipeapp.db.repos/-shopping-item-repo/check-item.html
 $dokka.location:com.example.recipeapp.db.repos/ShoppingItemRepo/getItem/#kotlin.Int/PointingToDeclaration/app/com.example.recipeapp.db.repos/-shopping-item-repo/get-item.html
 $dokka.location:com.example.recipeapp.db.repos/ShoppingItemRepo/getShoppingList/#/PointingToDeclaration/app/com.example.recipeapp.db.repos/-shopping-item-repo/get-shopping-list.html
+$dokka.location:com.example.recipeapp.db.repos/ShoppingItemRepo/removeItem/#com.example.recipeapp.db.entities.ShoppingItemEnt/PointingToDeclaration/app/com.example.recipeapp.db.repos/-shopping-item-repo/remove-item.html
 $dokka.location:com.example.recipeapp.db.repos/ShoppingItemRepo/removedChecked/#/PointingToDeclaration/app/com.example.recipeapp.db.repos/-shopping-item-repo/removed-checked.html
 $dokka.location:com.example.recipeapp.db.repos/ShoppingItemRepo/updateItem/#com.example.recipeapp.db.entities.ShoppingItemEnt/PointingToDeclaration/app/com.example.recipeapp.db.repos/-shopping-item-repo/update-item.html
 $dokka.location:com.example.recipeapp.db////PointingToDeclaration/app/com.example.recipeapp.db/index.html
