@@ -196,7 +196,6 @@ $dokka.location:com.example.recipeapp////PointingToDeclaration/app/com.example.
 $dokka.location:com.example.recipeapp/MainActivity///PointingToDeclaration/app/com.example.recipeapp/-main-activity/index.html
 $dokka.location:com.example.recipeapp/MainActivity/MainActivity/#/PointingToDeclaration/app/com.example.recipeapp/-main-activity/-main-activity.html
 $dokka.location:com.example.recipeapp/MainActivity/onSupportNavigateUp/#/PointingToDeclaration/app/com.example.recipeapp/-main-activity/on-support-navigate-up.html
-$dokka.location:com.example.recipeapp/MainActivity/seeRecipes/#kotlin.collections.List[com.example.recipeapp.db.entities.RecipeEnt]/PointingToDeclaration/app/com.example.recipeapp/-main-activity/see-recipes.html
 $dokka.location:com.example.recipeapp/Util.Companion///PointingToDeclaration/app/com.example.recipeapp/-util/-companion/index.html
 $dokka.location:com.example.recipeapp/Util.Companion/ingredientsToList/#kotlin.String/PointingToDeclaration/app/com.example.recipeapp/-util/-companion/ingredients-to-list.html
 $dokka.location:com.example.recipeapp/Util.Companion/mapByProp/#kotlin.collections.List[com.example.recipeapp.db.entities.ShoppingItemEnt]/PointingToDeclaration/app/com.example.recipeapp/-util/-companion/map-by-prop.html
