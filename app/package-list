@@ -111,9 +111,7 @@ $dokka.location:com.example.recipeapp.ui.recipe////PointingToDeclaration/app/co
 $dokka.location:com.example.recipeapp.ui.recipe/RecipeFragment///PointingToDeclaration/app/com.example.recipeapp.ui.recipe/-recipe-fragment/index.html
 $dokka.location:com.example.recipeapp.ui.recipe/RecipeFragment/RecipeFragment/#/PointingToDeclaration/app/com.example.recipeapp.ui.recipe/-recipe-fragment/-recipe-fragment.html
 $dokka.location:com.example.recipeapp.ui.recipe/RecipeFragment/onCreate/#android.os.Bundle?/PointingToDeclaration/app/com.example.recipeapp.ui.recipe/-recipe-fragment/on-create.html
-$dokka.location:com.example.recipeapp.ui.recipe/RecipeFragment/onCreateOptionsMenu/#android.view.Menu#android.view.MenuInflater/PointingToDeclaration/app/com.example.recipeapp.ui.recipe/-recipe-fragment/on-create-options-menu.html
 $dokka.location:com.example.recipeapp.ui.recipe/RecipeFragment/onCreateView/#android.view.LayoutInflater#android.view.ViewGroup?#android.os.Bundle?/PointingToDeclaration/app/com.example.recipeapp.ui.recipe/-recipe-fragment/on-create-view.html
-$dokka.location:com.example.recipeapp.ui.recipe/RecipeFragment/onOptionsItemSelected/#android.view.MenuItem/PointingToDeclaration/app/com.example.recipeapp.ui.recipe/-recipe-fragment/on-options-item-selected.html
 $dokka.location:com.example.recipeapp.ui.recipe/RecipeListAdapter.MyViewHolder///PointingToDeclaration/app/com.example.recipeapp.ui.recipe/-recipe-list-adapter/-my-view-holder/index.html
 $dokka.location:com.example.recipeapp.ui.recipe/RecipeListAdapter.MyViewHolder/MyViewHolder/#[Error type: Unresolved type for RecipeRowBinding]#com.example.recipeapp.ui.recipe.RecipeListAdapter.OnRecipeSelected/PointingToDeclaration/app/com.example.recipeapp.ui.recipe/-recipe-list-adapter/-my-view-holder/-my-view-holder.html
 $dokka.location:com.example.recipeapp.ui.recipe/RecipeListAdapter.MyViewHolder/emoji/#/PointingToDeclaration/app/com.example.recipeapp.ui.recipe/-recipe-list-adapter/-my-view-holder/emoji.html
@@ -134,6 +132,7 @@ $dokka.location:com.example.recipeapp.ui.recipe/RecipeViewModel.Companion///Poin
 $dokka.location:com.example.recipeapp.ui.recipe/RecipeViewModel.Companion/Factory/#/PointingToDeclaration/app/com.example.recipeapp.ui.recipe/-recipe-view-model/-companion/-factory.html
 $dokka.location:com.example.recipeapp.ui.recipe/RecipeViewModel///PointingToDeclaration/app/com.example.recipeapp.ui.recipe/-recipe-view-model/index.html
 $dokka.location:com.example.recipeapp.ui.recipe/RecipeViewModel/RecipeViewModel/#com.example.recipeapp.db.repos.RecipeRepo/PointingToDeclaration/app/com.example.recipeapp.ui.recipe/-recipe-view-model/-recipe-view-model.html
+$dokka.location:com.example.recipeapp.ui.recipe/RecipeViewModel/addMealPlanner/#androidx.fragment.app.FragmentManager/PointingToDeclaration/app/com.example.recipeapp.ui.recipe/-recipe-view-model/add-meal-planner.html
 $dokka.location:com.example.recipeapp.ui.recipe/RecipeViewModel/getCurRecipe/#/PointingToDeclaration/app/com.example.recipeapp.ui.recipe/-recipe-view-model/get-cur-recipe.html
 $dokka.location:com.example.recipeapp.ui.recipe/RecipeViewModel/getRecipeById/#kotlin.Int/PointingToDeclaration/app/com.example.recipeapp.ui.recipe/-recipe-view-model/get-recipe-by-id.html
 $dokka.location:com.example.recipeapp.ui.recipe/RecipeViewModel/getRecipes/#/PointingToDeclaration/app/com.example.recipeapp.ui.recipe/-recipe-view-model/get-recipes.html
