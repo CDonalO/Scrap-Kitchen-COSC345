@@ -190,7 +190,6 @@ $dokka.location:com.example.recipeapp.ui.shoppingList/ShoppingListViewModel/remo
 $dokka.location:com.example.recipeapp.ui.shoppingList/SwipeGesture///PointingToDeclaration/app/com.example.recipeapp.ui.shoppingList/-swipe-gesture/index.html
 $dokka.location:com.example.recipeapp.ui.shoppingList/SwipeGesture/SwipeGesture/#/PointingToDeclaration/app/com.example.recipeapp.ui.shoppingList/-swipe-gesture/-swipe-gesture.html
 $dokka.location:com.example.recipeapp.ui.shoppingList/SwipeGesture/onMove/#androidx.recyclerview.widget.RecyclerView#androidx.recyclerview.widget.RecyclerView.ViewHolder#androidx.recyclerview.widget.RecyclerView.ViewHolder/PointingToDeclaration/app/com.example.recipeapp.ui.shoppingList/-swipe-gesture/on-move.html
-$dokka.location:com.example.recipeapp.ui.shoppingList/SwipeGesture/onSwiped/#androidx.recyclerview.widget.RecyclerView.ViewHolder#kotlin.Int/PointingToDeclaration/app/com.example.recipeapp.ui.shoppingList/-swipe-gesture/on-swiped.html
 $dokka.location:com.example.recipeapp////PointingToDeclaration/app/com.example.recipeapp/index.html
 $dokka.location:com.example.recipeapp/MainActivity///PointingToDeclaration/app/com.example.recipeapp/-main-activity/index.html
 $dokka.location:com.example.recipeapp/MainActivity/MainActivity/#/PointingToDeclaration/app/com.example.recipeapp/-main-activity/-main-activity.html
